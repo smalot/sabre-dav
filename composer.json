@@ -37,7 +37,8 @@
     },
     "suggest" : {
         "ext-curl" : "*",
-        "ext-pdo" : "*"
+        "ext-pdo" : "*",
+        "doctrine/orm" : "^2.4.8"
     },
     "autoload": {
         "psr-4" : {
